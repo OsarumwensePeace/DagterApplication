@@ -1,0 +1,8 @@
+body{background-color:lightyellow; margin:10px;}
+
+#container{background-color:#ffffff; width:400px; margin-left:auto; margin-right:auto; border:1px solid lightgray; border-radius:10px; padding:10px; //text-align:center; font-family:calibri;}
+
+fieldset{border:1px solid lightgray; margin:10px; padding:20px;}
+
+.sea {background-color:red; padding:10px;color:white; font-size:130%; margin:15px; border-radius:5px; border:none;}
+.button a{color:white; text-decoration:none;}
